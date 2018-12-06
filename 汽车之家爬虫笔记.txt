@@ -1,0 +1,14 @@
+"Cache-Control":"no-cache",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+"Referer":"https://www.che168.com/beijing/list/",
+
+
+info   //*[@id="viewlist_ul"]//li[not(contains(@class,"adv-img"))]/a
+	img	   .//img/@src
+	name   .//h4/text()
+	mileage .//p/text()  			公里数
+	year 										5.6万公里／2012-7／北京
+	location
+
+
+
